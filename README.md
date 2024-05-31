@@ -1,2 +1,2 @@
 # universe
-universe database for Celestial Bodies Database, freecodecamp
+universe database created for Celestial Bodies Database, @ freecodecamp.org
